@@ -1,0 +1,84 @@
+.img {
+    background-image: url(./assets/Preview.js.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 705px;
+    height: 800px;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.wrapper-btn {
+    display: flex;
+}
+
+.logo {
+    background-image: url(./assets/Frame\ 14394.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 223px;
+    height: 76px;
+    margin-bottom: 50px;
+}
+
+.wrapper .preview-information h1 {
+    font: 700 80px 'Montserrat';
+    align-items: center;
+    color: #FFFFFF;
+    margin-bottom: 25px;
+}
+
+.wrapper .preview-information p {
+    font: 400 20px 'Montserrat';
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.wrapper .preview-information h2 {
+    font: 400 20px 'Montserrat';
+    color: #CDCCCF;
+    margin-bottom: 60px;
+}
+
+.google-play {
+    background-image: url(./assets/button_2.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 190px;
+    height: 60px;
+
+}
+
+.apple {
+    background-image: url(./assets/button_1.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 190px;
+    height: 60px;
+    margin-left: 16px;
+}
+
+.preview-information {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 495px;
+    height: 650px;
+    margin: auto auto 0;
+}
+
+.arrow {
+    background-image: url(./assets/Frame\ \(3\).svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 20px;
+    height: 16px;
+    margin-top: 5px;
+}
+
+.explore {
+    display: flex;
+    align-items: center;
+}
