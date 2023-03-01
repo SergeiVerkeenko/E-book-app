@@ -30,7 +30,6 @@ function Advantages() {
             <div className={style['container']}>
 
                 {adventages.map(el => <AdvantagesItem id={el.id} text={el.text} imageClass={el.imageClass} header={el.header} key={el.id} />)}
-                {/* {adventages.map(el => <AdvantagesItem key={el.id} text={el.text} header={el.header} imageClass={el.imageClass}></AdvantagesItem>)} */}
             </div>
 
 

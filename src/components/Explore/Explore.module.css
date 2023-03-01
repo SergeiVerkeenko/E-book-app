@@ -1,0 +1,97 @@
+h2 {
+    font: 700 60px 'Montserrat';
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.wrapper-btn {
+    display: flex;
+    margin: 60px 0 0 250px;
+}
+
+.btn-explore {
+    padding: 10px 40px;
+    width: 250px;
+    height: 60px;
+    background: #2B2A2D;
+    border-radius: 10px;
+}
+
+.btn-explore p {
+    font: 400 20px 'Montserrat';
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/* .btn-explore :hover {
+    align-items: center;
+    width: 211px;
+    height: 48px;
+    background: #FFFFFF;
+    border-radius: 10px;
+} */
+
+.wrapper {
+    display: flex;
+    margin: 80px auto 200px auto;
+}
+
+.text {
+    width: 540px;
+}
+
+.img1 {
+    background-image: url(./assets/image_1.svg);
+    width: 640px;
+    height: 520px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 80px;
+    border-radius: 32px;
+}
+
+.img2 {
+    background-image: url(./assets/image_2.svg);
+    width: 640px;
+    height: 520px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 80px;
+    border-radius: 32px;
+}
+
+.img3 {
+    background-image: url(./assets/image_3.svg);
+    width: 640px;
+    height: 520px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 80px;
+    border-radius: 32px;
+}
+
+.img4 {
+    background-image: url(./assets/image_4.svg);
+    width: 640px;
+    height: 520px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 80px;
+    border-radius: 32px;
+}
+
+.text h3 {
+    font: 700 48px 'Montserrat';
+    margin: 100px auto 40px auto;
+    color: #FFFFFF;
+    width: 309px;
+    text-align: center;
+}
+
+.text p {
+    font: 700 20px 'Montserrat';
+    width: 540px;
+    height: 160px;
+    color: #FFFFFF;
+
+}

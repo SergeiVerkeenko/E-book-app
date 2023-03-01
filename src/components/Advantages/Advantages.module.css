@@ -42,7 +42,7 @@
 }
 
 .item h3 {
-    font: 700 32px 'Montserrat';
+    font: 700 26px 'Montserrat';
     color: #FFFFFF;
     margin-top: 36px;
     margin-bottom: 24px;
@@ -56,4 +56,22 @@
 .wrapper .container {
     display: flex;
     justify-content: space-between;
+}
+
+
+.item-logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.item-logo .btn {
+    font: 700 16px 'Montserrat';
+    color: #FFFFFF;
+    background: linear-gradient(246.65deg, #FAAB2B -55.2%, #DF5820 81.62%);
+    border-radius: 8px;
+    padding: 10px 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
 }
